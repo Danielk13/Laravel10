@@ -1,2 +1,2 @@
-# โปรเจกต์ของเด็กชายก้อง
+# โปรเจกต์ Laravel 10 Turtorial 
 This project about github tutorial
