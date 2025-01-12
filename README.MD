@@ -1,2 +1,2 @@
-# โปรเจกต์ของเด็กชายก้อง
+# โปรเจกต์ของเด็กชายแดนเนีล คุง
 This project about github tutorial
